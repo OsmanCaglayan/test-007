@@ -1,7 +1,7 @@
 # Opdrachtbeschrijving
 
 ## Inleiding
-
+Test007
 Je bent net begonnen als developer bij een bedrijf genaamd _Tech It Easy_, dat TV's verkoopt. Recentelijk hebben ze Fred
 van financieën ontslagen omdat hij telkens wel online was op Teams, maar eigenlijk dutjes deed en niets uitvoerde. Dit
 betekent dat de medewerkers een financieel dashboard nodig hebben om zelf de administratie bij te houden.
